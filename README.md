@@ -1,12 +1,4 @@
-# Requirements
-This lesson, despite its small length, has several requirements.\
-Installed NodeJS (LTS or higher) and npm / yarn \
-Installed Typescript (3) \
-Installed AWS CLI (1.16 or higher) \
-Installed CDK CLI ( npm i -g cdk ) \
-Configured AWS Account ( aws configure )
-
-## Setting up a static Web-Application
+# Setting up a static Web-Application
 
 npx create-react-app cdk-cra-static --template typescript.
 
@@ -80,3 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Requirements
+This lesson, despite its small length, has several requirements.\
+Installed NodeJS (LTS or higher) and npm / yarn \
+Installed Typescript (3) \
+Installed AWS CLI (1.16 or higher) \
+Installed CDK CLI ( npm i -g cdk ) \
+Configured AWS Account ( aws configure )
