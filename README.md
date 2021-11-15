@@ -1,10 +1,14 @@
 # Requirements
-This lesson, despite its small length, has several requirements.
-Installed NodeJS (LTS or higher) and npm / yarn
-Installed Typescript (3)
-Installed AWS CLI (1.16 or higher)
-Installed CDK CLI ( npm i -g cdk )
-Configured AWS Account ( aws configure )
+This lesson, despite its small length, has several requirements.\
+Installed NodeJS (LTS or higher) and npm / yarn \
+Installed Typescript (3) \
+Installed AWS CLI (1.16 or higher) \
+Installed CDK CLI ( npm i -g cdk ) \
+Configured AWS Account ( aws configure ) \
+
+## Setting up a static Web-Application
+
+npx create-react-app cdk-cra-static --template typescript.
 
 ## Getting Started with Create React App
 
