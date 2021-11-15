@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Requirements
+This lesson, despite its small length, has several requirements.
+Installed NodeJS (LTS or higher) and npm / yarn
+Installed Typescript (3)
+Installed AWS CLI (1.16 or higher)
+Installed CDK CLI ( npm i -g cdk )
+Configured AWS Account ( aws configure )
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
